@@ -1,0 +1,27 @@
+button{
+	border:solid 2px black;;
+	width:40px;
+	height:40px;
+	padding:2px;
+	background-color:gray;
+	color:black;
+}
+input{
+	border:solid 2px gray;
+	width:177;
+	height:50px;
+	background-color:white;
+	color:black;
+	text-align:right;
+	
+}
+#calc{
+	margin:50px 500px;
+	
+}
+
+body{
+	background-color:white;
+}
+	
+
